@@ -8,7 +8,7 @@ Ron is new to GitHub and is scared of the internet. Ron is a bit of an ass, but 
 Here's the functional requirements Ron insists on.
 
  - He needs to be able to run the application locally
- - He needs to connect to the [GitHub API](https://developer.github.com/v3/search/#search-repositories)
+ - He needs to connect to the [GitHub API](https://developer.github.com/v3/users/)
  - He needs an input field to input his search term
  - The results need to return back on the same page (we can limit it to the first 5, he doesn't want pagination)
  - If the search includes the term "Ron", [rick roll em'](https://www.youtube.com/watch?v=dQw4w9WgXcQ) because he's a narcissist 
