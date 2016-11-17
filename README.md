@@ -3,7 +3,7 @@
 Please complete as much of this as possible in an hour. Fork the repository and work on it from there. It's not the speed at which this project is completed, it's the quality of the code and the reasoning behind it. *Follow the mockup for design.*
 
 ### Challenge ####
-Ron is new to GitHub and is scared of the internet. Ron is a bit of an ass, but we've been ordered to help Ron search for what he needs on GitHub.
+Ron is new to GitHub and is scared of the internet. Please make an application that makes it easy for him to do what he needs to without leaving the application.
 
 Here's the functional requirements Ron insists on.
 
