@@ -10,7 +10,7 @@ Here's the functional requirements Ron insists on.
  - He needs to be able to run the application locally
  - He needs to connect to the [GitHub API](https://developer.github.com/v3/users/)
  - He needs an input field to input his search term
- - The results need to return back on the same page (we can limit it to the first 5, he doesn't want pagination)
+ - The results need to return back on the same page (we can limit it to the first 10, he doesn't want pagination)
  - If the search includes the term "Ron", [rick roll em'](https://www.youtube.com/watch?v=dQw4w9WgXcQ) because he's a narcissist 
  - You can use any Node / Angular libraries you want.
 
