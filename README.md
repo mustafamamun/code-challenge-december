@@ -15,7 +15,7 @@ Here's the functional requirements Ron insists on.
  - You can use any Node / Angular libraries you want.
 
 
-Here's the mockup to base the design on.
+Here's the mockup to base the design on (also under mockup_example.png).
 
 
 Once you're done with the challenge, submit a pull request back to this source repository.
