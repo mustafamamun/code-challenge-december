@@ -1,6 +1,6 @@
 # code-challenge-december
 ## Code Exercise in Node & Angular ##
-Please complete as much of this as possible in an hour. Fork the repository and work on it from there. It's not the speed at which this project is completed, it's the quality of the code and the reasoning behind it. *Follow the mockup for design.*
+Please complete as much of this as possible in an hour. Fork the repository, or if you wish for privacy, download and create your own repository, and work on it from there. It's not the speed at which this project is completed, it's the quality of the code and the reasoning behind it. *Follow the mockup for design.*
 
 ### Challenge ####
 Ron is new to GitHub and is scared of the internet. Please make an application that makes it easy for him to do what he needs to without leaving the application.
@@ -18,4 +18,4 @@ Here's the functional requirements Ron insists on.
 Here's the mockup to base the design on (also under mockup_example.png).
 
 
-Once you're done with the challenge, submit a pull request back to this source repository.
+Once you're done with the challenge, email me back the link to your repository or fork.
