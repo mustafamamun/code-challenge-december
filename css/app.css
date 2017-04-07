@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+#pic {
+    height: 50%;
+    background-color: yellow;
+}
+#search {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: black;
+  height: 50%;
+}
